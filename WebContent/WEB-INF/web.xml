@@ -11,15 +11,15 @@
 	</context-param>
 	<context-param>
 		<param-name>JDBC_URL</param-name>
-		<param-value>jdbc:mysql://localhost:3306/minibiblio?serverTimezone=Europe/Paris</param-value>
+		<param-value>jdbc:mysql://localhost:3306/<!--  APERSONNALISER -->?serverTimezone=Europe/Paris</param-value>
 	</context-param>
 	<context-param>
 		<param-name>JDBC_LOGIN</param-name>
-		<param-value>root</param-value>
+		<param-value><!--  APERSONNALISER --></param-value>
 	</context-param>
 	<context-param>
 		<param-name>JDBC_PASSWORD</param-name>
-		<param-value>blablabla</param-value>
+		<param-value><!--  APERSONNALISER --></param-value>
 	</context-param>
 
 	<welcome-file-list>
